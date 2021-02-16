@@ -24,7 +24,7 @@
 
    }
 
-    #nav a.image {
+   #nav a.image {
        width: 22px;
        height: 22px;
        background: red;
